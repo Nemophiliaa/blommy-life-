@@ -6,4 +6,7 @@ Yang dimana kamu harus merawat tanaman dengan menekan tombol tombol yang sudah d
 Masing Masing tombol Akan Menambah Dan Megubah Value Dari Progress Bar Yang Berada Di status Panel 
 
 ## Cara Menjalankan Project ini
+- Ketikan Di terminal Laptop Mu !
+```bash
 git clone https://github.com/Nemophiliaa/blommy-life-.git
+``` 
